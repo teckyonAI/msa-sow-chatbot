@@ -1,6 +1,6 @@
 # AI-Powered MSA Chatbot (Dummy Project)
 
-This is a **dummy implementation** of an AI-powered chatbot designed to assist with **Master Service Agreement (MSA) compliance** and **Statement of Work (SoW) generation** using **FastAPI, ChromaDB, and an open-source model**.
+This is a **template implementation** of an AI-powered chatbot designed to assist with **Master Service Agreement (MSA) compliance** and **Statement of Work (SoW) generation** using **FastAPI, ChromaDB, and an open-source model**.
 
 ---
 
@@ -17,8 +17,8 @@ This is a **dummy implementation** of an AI-powered chatbot designed to assist w
 ## 📦 Installation
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/msa_chatbot_dummy.git
-cd msa_chatbot_dummy
+git clone https://github.com/teckyonAI/msa-sow-chatbot.git
+cd msa-sow-chatbot
 ```
 
 ### **2️⃣ Install Dependencies**
